@@ -17,5 +17,5 @@ A Spotify-inspired music streaming web application built using HTML, CSS, and Ja
 ### Note
 This project is currently optimized for desktop screens and is not fully responsive for mobile devices.
 
-##Website Link
+## Website Link
 musicspotifytushar.netlify.app
